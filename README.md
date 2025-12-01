@@ -6,11 +6,11 @@
 ## 1. Project Goals
 The ultimate vision is an attempt to create a self-improving software development simulation where **Architect Agents** design experiments, **User Agents** test features, and **Meta-Analysis Agents** distill the results into institutional knowledge.
 
-<img src="images/ag-exp-vision-flow-chart.png" alt="Vision Architecture" width="55%">
+<img src="images/ag-exp-vision-flow-chart.png" alt="Vision Architecture" width="100%">
 
 Currently this repository hosts the **Proof of Concept (POC)**: A rigorous controlled experiment (A/B Test) measuring how "Cognitive Friction" (error message quality) impacts the problem-solving efficiency of different LLM architectures. 
 
-<img src="images/sql-as-os-flow-chart.png" alt="POC Flow" width="55%">
+<img src="images/sql-as-os-flow-chart.png" alt="POC Flow" width="100%">
 
 All further development of multi-layered agentic workflows will be saved in this repo as well.
 
