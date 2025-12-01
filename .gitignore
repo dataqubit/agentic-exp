@@ -214,3 +214,8 @@ os_logs/
 # Some dev notebooks
 exp_analysis.ipynb
 os_analysis.ipynb
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
