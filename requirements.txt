@@ -1,0 +1,15 @@
+# AI SDKs
+google-genai
+openai
+
+# Data & Utilities
+pandas
+pydantic
+python-dotenv
+Faker
+
+# Analysis & Visualization
+scipy
+seaborn
+matplotlib
+jupyter
