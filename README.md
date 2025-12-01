@@ -131,3 +131,9 @@ More detailed analysis and visualizations can be found in the [Experiment Analys
 4. Implement a RAG-based "Meta-Memory" system to allow agents to learn from past experiments.
 5. Explore safety and security aspects, including adversarial testing and anomaly detection.
 6. Many more...
+
+## Author
+Created by **Chingiz K.** (DataQubit). 
+
+* **Technical Questions or Collaboration:** [Open a GitHub Issue](https://github.com/dataqubit/agentic-exp/issues/new)
+* **Want to chat?** Find me on [Discord](https://discord.com/): **dataqubit**
